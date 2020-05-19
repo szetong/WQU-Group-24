@@ -2,9 +2,9 @@
 
 **The Objective of this project is to show how financial ratios related to its stock price.(For the same industry)**
 
-Emerging Market (China A50 Index) stock is selected and used for this study.
+1. Emerging Market (China A50 Index) stock is selected and used for this study.
 
-Google Colab is used for this project
+2. Google Colab is used for this project
 
 - The first part of this study will be using Empirical Analysis focusing on Correlation coefficient to related to its stock price. 
 
