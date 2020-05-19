@@ -6,6 +6,8 @@
 
 2. Google Colab is used for this project
 
+3. Part of China A50 Securities is uploaded as Data.zip (This data is used for this study)
+
 - The first part of this study will be using Empirical Analysis focusing on Correlation coefficient to related to its stock price. 
 
 - The second part of this study will be using Machine Learning Classification to predict the "Buy or "Sell" position based on Financial Ratio.
